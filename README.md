@@ -43,7 +43,7 @@ Speaker.HUB is a web platform designed to empower individuals in the tech commun
 ### Technologies Used
 
 - Frontend: Next.js
-- Backend: Node.js, Express
+- Backend: Node.js, Express, Go(Gin server)
 - Database: MongoDB
 - Authentication: Clerk
 - AI Chat Bot: Powered by Gemini AI
